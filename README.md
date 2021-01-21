@@ -1,6 +1,12 @@
 # tpAutomatas
 TP de Autómatas (constantes en C)
 
+Realizado por:
+
+- Agustín de Sousa
+- Guido Dipietro
+- Pablo Pellegrini
+
 https://docs.google.com/document/d/1-LdLnhGwV0t-NeAndUfQNu9Fb4wtoYniQtyBoMiCMUQ/edit?usp=sharing
 
 # HECHOS:
