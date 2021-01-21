@@ -1,0 +1,1 @@
+gcc reconocedorConstantes.c constantes.c -o reconocedorConstantes
